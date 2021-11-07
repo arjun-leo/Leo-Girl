@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="20210822_180226.png" width="200" height="200"/>
+  <img border-radius: 15px src="20211024_133410.png" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Leo-Girl" src="https://img.shields.io/badge/Leo-Girl-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
